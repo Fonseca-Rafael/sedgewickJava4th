@@ -1,0 +1,6 @@
+https://introcs.cs.princeton.edu/java/stdlib/
+
+% javac -classpath .:stdlib.jar MyProgram.java
+% java  -classpath .:stdlib.jar MyProgram
+
+% java BinarySearch largeW.txt < largeT.txt
